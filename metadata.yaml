@@ -32,6 +32,8 @@ creator:
 description: '''Sister Rose'' was wrongly attributed to Dickens; actually by Wilkie
   Collins. First published, unsigned, in Dickens'' magazine Household words, Apr.
   7-28, 1855. Published under Wilkie Collins'' name in his After dark, 1856.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23342#Sisar-Rosa
 gutenberg_issued: '2007-11-05'
 gutenberg_type: Text
 identifiers:
